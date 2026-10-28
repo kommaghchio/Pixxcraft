@@ -39,4 +39,4 @@ Finally, the way I want to go forward with this project is software. The screen 
 
 Day 1 final progress:
 
-![Screenshot 2026-10-24 214524](https://halflife.hackclub-assets.com/sessions/5Di8qxPvTjh464E0buJSS1rL8xZfVQiB/2d105dc54d7869a923b74e1f6e79fc99c13ceafe998a27e8308936218741f4f1.png)
+<img width="568" height="509" alt="image" src="https://github.com/user-attachments/assets/a037a8ef-04d9-478f-9bad-b008908e15b0" />
