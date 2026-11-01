@@ -1,4 +1,5 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
 XIAO-ESP32-S3,1,Digikey,$5.90,$5.90,https://www.digikey.com/
 WaveShare TFT touchscreen,1,RobotShop,$17.45,$17.45,https://www.robotshop.com/
+JST 455-DM12B-GHS-TBTCT-ND,1,Digikey,$0.62,$0.62,https://www.digikey.com/
 Estimated total shipping,1,,,$0.00,
