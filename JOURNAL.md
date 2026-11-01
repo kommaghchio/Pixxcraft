@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/swalv4wn2foydq3n5sy45946)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A small MS-Paint style widget that allows you to create small animated paintings.
+> A small, MS-Paint style widget that allows you to create small, animated, frame-by frame paintings. It runs on an ESP-32 and a touchscreen TFT.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
